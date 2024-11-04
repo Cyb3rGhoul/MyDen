@@ -8,7 +8,7 @@ import './Dashboard.css';
 import { UserButton } from '@clerk/clerk-react';
 import { Select, MenuItem, IconButton, Collapse } from '@mui/material';
 import { Copy, Plus, ChevronDown, ChevronUp } from 'lucide-react';
-import WeatherAndNews from '../components/WeatherandNews.jsx';
+import WeatherAndNews from '../components/WeatherAndNews.jsx';
 
 
 const Dashboard = () => {
